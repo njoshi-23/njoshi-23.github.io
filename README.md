@@ -6,9 +6,10 @@ Welcome to my mechanical engineering portfolio! Here you'll find information abo
 
 I am a mechanical engineer with a passion for designing innovative solutions and solving complex problems. My expertise includes CAD modeling and finite element analysis (FEA). I am always eager to learn new techniques and technologies to enhance my engineering capabilities.
 
-To view my detailed portfolio, please click the link below:
+To view my detailed portfolio & Resume, please use the links below:
 
-[![Portfolio PDF]](Portfolio - Nikhil Joshi - Master Copy.pdf)
+[Portfolio PDF](Portfolio - Nikhil Joshi - Master Copy.pdf)
+[Resume]()
 
 ## Skills
 
