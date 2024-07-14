@@ -8,6 +8,7 @@ I am a mechanical engineer with a passion for designing innovative solutions and
 
 To view my detailed portfolio & Resume, please use the links below:
 
+<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
 [Portfolio](Portfolio - Nikhil Joshi - Master Copy.pdf)
 [Resume](Resume_Nikhil Joshi_2024.pdf)
 
