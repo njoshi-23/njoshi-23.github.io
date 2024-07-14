@@ -8,7 +8,7 @@ I am a mechanical engineer with a passion for designing innovative solutions and
 
 To view my detailed portfolio, please click the link below:
 
-[![Portfolio PDF](path/to/pdf-thumbnail.jpg)](Portfolio - Nikhil Joshi - Master Copy.pdf)
+[![Portfolio PDF]](Portfolio - Nikhil Joshi - Master Copy.pdf)
 
 ## Skills
 
@@ -33,8 +33,8 @@ To view my detailed portfolio, please click the link below:
 
 Feel free to reach out to me for collaboration, job opportunities, or any questions you may have.
 
-- **Email:** [joshi.nikhil15@outlook.com]
-- **LinkedIn:** [https://www.linkedin.com/in/joshinikhil15]
-- **GitHub:** [https://github.com/njoshi-23]
+- **Email:** joshi.nikhil15@outlook.com
+- **LinkedIn:** https://www.linkedin.com/in/joshinikhil15
+- **GitHub:** https://github.com/njoshi-23
 
 Thank you for visiting my portfolio!
