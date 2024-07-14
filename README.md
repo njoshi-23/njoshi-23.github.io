@@ -8,9 +8,10 @@ I am a mechanical engineer with a passion for designing innovative solutions and
 
 ## Skills
 
-- **CAD Modeling:** SolidWorks, AutoCAD, CATIA
-- **Simulation and Analysis:** ANSYS, MATLAB, Simulink
-- **Programming:** Python, C++, MATLAB
+- **CAD Modeling:** SolidWorks, CREO, CATIA
+- **Simulation and Analysis:** ANSYS, COMSOL Multiphysics, Abaqus, SimScale
+- **Statistical Analysis:** Minitab, JMP - Design of Experiments
+- **Programming & Other:** Python, MATLAB, SQL, PowerBi, Acumatica ERP, Teamcenter
 - **Manufacturing:** CNC Machining, 3D Printing, Laser Cutting
 - **Soft Skills:** Project Management, Team Collaboration, Technical Writing
 
