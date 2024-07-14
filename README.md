@@ -5,4 +5,4 @@ Nikhil Joshi
 
 joshi.nikhil15@outlook.com
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/joshinikhil15)
