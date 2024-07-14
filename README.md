@@ -6,5 +6,3 @@ Nikhil Joshi
 joshi.nikhil15@outlook.com
 
 [LinkedIn](https://www.linkedin.com/in/joshinikhil15)
-
-Portfolio - Portfolio - Nikhil Joshi - Master Copy.pdf
