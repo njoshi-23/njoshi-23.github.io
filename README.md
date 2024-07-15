@@ -1,10 +1,8 @@
-# Mechanical Engineering Portfolio
-
-Welcome to my mechanical engineering portfolio! Here you'll find information about my projects, skills, education, and how to get in touch with me.
+Welcome to my profile! Here you'll find information about my projects, skills, education, and how to get in touch with me.
 
 ## Introduction
 
-I am a mechanical engineer with a passion for designing innovative solutions and solving complex problems. My expertise includes CAD modeling and finite element analysis (FEA). I am always eager to learn new techniques and technologies to enhance my engineering capabilities.
+I am a mechanical engineer with a passion for designing innovative solutions and solving complex problems. I am currently working as a Product Development Engineer since 2022. My expertise includes CAD modeling and finite element analysis (FEA). I am always eager to learn new techniques and technologies to enhance my engineering capabilities.
 
 To view my detailed portfolio & Resume, please use the links below:
 
@@ -35,8 +33,8 @@ To view my detailed portfolio & Resume, please use the links below:
 
 Feel free to reach out to me for collaboration, job opportunities, or any questions you may have.
 
-- **Email:** [joshi.nikhil15@outlook.com]
-- **LinkedIn:** [https://www.linkedin.com/in/joshinikhil15]
-- **GitHub:** [https://github.com/njoshi-23]
+- **Email:** [joshi.nikhil15@outlook.com](mailto:your.email@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/joshinikhil15](link-to-linkedin)
+- **GitHub:** [https://github.com/njoshi-23](link-to-github)
 
 Thank you for visiting my portfolio!
