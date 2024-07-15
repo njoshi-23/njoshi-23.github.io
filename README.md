@@ -6,9 +6,9 @@ I am a mechanical engineer with a passion for designing innovative solutions and
 
 To view my detailed portfolio & Resume, please use the links below:
 
-- [View My Resume](<a href="pdfs/Resume_Nikhil Joshi_2024.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>)
+- <a href="pdfs/Resume_Nikhil Joshi_2024.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
   
-- [View My Portfolio](<a href="pdfs/Portfolio - Nikhil Joshi - Master Copy.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>)
+- <a href="pdfs/Portfolio - Nikhil Joshi - Master Copy.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ## Skills
 
