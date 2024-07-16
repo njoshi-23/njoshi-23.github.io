@@ -12,8 +12,6 @@ To view my detailed portfolio & Resume, please use the links below:
 
 # Nikhil Joshi
 
-Tempe, AZ | +1-602-6392988 | [joshi.nikhil15@outlook.com](mailto:joshi.nikhil15@outlook.com) | [LinkedIn](https://www.linkedin.com/in/joshinikhil15) | [GitHub Pages](https://njoshi-23.github.io/) | Willing to Relocate
-
 ---
 
 ## Experience
@@ -71,14 +69,6 @@ Design of experiments (DOE), Minitab, JMP
 
 **Other:**  
 Machining, Welding, Excel, MATLAB, Python, SQL, PowerBI, Acumatica ERP
-
-
-
-
-
-
-
-
 
 ## Contact
 
