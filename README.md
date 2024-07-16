@@ -10,8 +10,6 @@ To view my detailed portfolio & Resume, please use the links below:
 
 [Portfolio](./Portfolio.pdf)
 
-# Nikhil Joshi
-
 ---
 
 ## Experience
