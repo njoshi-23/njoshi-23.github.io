@@ -28,13 +28,8 @@ To view my detailed portfolio & Resume, please use the links below:
 
 ## Education
 
-**Master of Science, Mechanical Engineering**
-*May 2022*  
-Arizona State University, Tempe, AZ, USA | GPA 3.3
-
-**Bachelor of Technology, Mechanical Engineering**
-*June 2020*  
-Pandit Deendayal Energy University, Gujarat, India | GPA 3.5
+- M.S., Mechanical Engineering	| Arizona State University (_May 2022_)	 			        		
+- B.S., Mechanical Engineering | Pandit Deendayal Energy University (_June 2020_)
 
 ---
 
