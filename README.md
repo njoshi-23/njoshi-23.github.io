@@ -1,5 +1,3 @@
-# Mechanical Engineer / Product Development Engineer
-
 Welcome to my profile! Here you'll find information about my projects, skills, education, and how to get in touch with me.
 
 ## Introduction
