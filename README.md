@@ -26,25 +26,6 @@ To view my detailed portfolio & Resume, please use the links below:
 
 ---
 
-## Projects
-
-**CFD - Analysis of internal, external, and multiphase flow with heat transfer**
-
-- Generated CAD models with SolidWorks and ANSYS Design Modeler based on provided specifications. Employed both laminar and turbulent flow models to analyze and compare key parameters, Vorticity, and Stream function.
-
-**DoE - Test to measure the acidity among different types of coffee and its brewing methods**
-
-- Conducted a full factorial experiment 2^3 to assess acidity variations in freshly brewed coffee, employing a pH meter and managing data through Microsoft Excel while performing in-depth analysis (ANOVA) using JMP Pro statistical software.
-- Investigated two-way and three-way interactions to evaluate significance of critical variables, enhancing understanding of their impact.
-
-**Liquid-Desiccant Dehumidification for Air Conditioning**
-
-- Conducted a comprehensive study on liquid-desiccant dehumidification to optimize humidity control and air temperature reduction. Optimized system performance through response surface methodology, focusing on variables such as inlet air temperature and relative humidity.
-- Developed theoretical models and performed experimental analysis, achieving significant reductions in air temperature (from 35°C to 25°C) and humidity (from 0.021 kg/kg to 0.0055 kg/kg). Proposed hybrid systems for improved stability and performance in varied climates.
-- Developed regression models to predict system efficiency, achieving a COP range of 1.44 to 2.4, demonstrating potential for energy savings and improved environmental impact.
-
----
-
 ## Education
 
 **Master of Science, Mechanical Engineering**
