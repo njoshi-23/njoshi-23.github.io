@@ -28,8 +28,11 @@ To view my detailed portfolio & Resume, please use the links below:
 
 ## Education
 
-- M.S., Mechanical Engineering | Arizona State University (_May 2022_)	 			        		
-- B.S., Mechanical Engineering | Pandit Deendayal Energy University (_June 2020_)
+- M.S., Mechanical Engineering
+- Arizona State University (_May 2022_)
+            		
+- B.S., Mechanical Engineering
+- Pandit Deendayal Energy University (_June 2020_)
 
 ---
 
