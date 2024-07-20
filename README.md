@@ -40,30 +40,14 @@ Pandit Deendayal Energy University, Gujarat, India | GPA 3.5
 
 ## Skills
 
-### Design/Modeling/Analysis:
-|                          |                    |
-| ------------------------ | ------------------ |
-| SolidWorks               | CREO               |
-| Ansys                    | GD&T               |
-| DFM/DFA                  | FMEA               |
-| Root cause analysis      | Abaqus             |
-| COMSOL Multiphysics      | Siemens Nx         |
-| Teamcenter               | SimScale           |
-| Lean Six Sigma Yellow Belt|                    |
+**Design/Modeling/Analysis:**  
+SolidWorks, CREO, Ansys, GD&T, DFM/DFA, FMEA, Root cause analysis, Abaqus, COMSOL Multiphysics, Siemens Nx, Teamcenter, SimScale, Lean Six Sigma Yellow Belt
 
-### Statistical Analysis:
-|                           |          |
-| ------------------------- | -------- |
-| Design of experiments (DOE)| Minitab |
-| JMP                       |          |
+**Statistical Analysis:**  
+Design of experiments (DOE), Minitab, JMP
 
-### Other:
-|          |               |
-| -------- | ------------- |
-| Machining| Welding       |
-| Excel    | MATLAB        |
-| Python   | SQL           |
-| PowerBI  | Acumatica ERP |
+**Other:**  
+Machining, Welding, Excel, MATLAB, Python, SQL, PowerBI, Acumatica ERP
 
 
 ## Contact
