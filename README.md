@@ -54,7 +54,7 @@ Machining, Welding, Excel, MATLAB, Python, SQL, PowerBI, Acumatica ERP
 
 Feel free to reach out to me for collaboration, job opportunities, or any questions you may have.
 
-- [Email](joshi.nikhil15@outlook.com)
+- Email : joshi.nikhil15@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/joshinikhil15)
 - [Github](https://github.com/njoshi-23)
 
